@@ -2,19 +2,64 @@
   <source media="(prefers-color-scheme: dark)" srcset="BannerBlack1.png">
   <img src="BannerLight1.png" alt="Banner">
 </picture>
-</a>
-<p align="center" style="margin-right: 0;">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&duration=4000&pause=100&color=F75E5D&background=84F2FF00&vCenter=true&repeat=false&width=436&lines=Hello%2C+I+am+Rishil." alt="Typing SVG" /></a>
-</p>
-<h3 align="center">Learning to make some magic!</h3>
 
-- I’m currently working on **honing my craft and expanding my expertise to master new technologies and methodologies.**
+### Hi, I'm Rishil 👋
 
-- I’m currently learning **Python and C**
+B.Tech Computer Science student at PES University, Bengaluru (2023–2027). I build RAG pipelines, fine-tune LLMs for real-world tasks, and design CTF challenges on the side. I care about systems that hold up outside a notebook.
 
-- I’m looking to collaborate on **projects to expand my skillset.**
+**Focus areas:**
+- **Applied ML / GenAI** — RAG pipelines, LoRA fine-tuning, semantic retrieval, policy/compliance classification
+- **Full-Stack Development** — end-to-end products from data pipeline to UI
+- **Security** — CTF challenge design across steganography, cryptography, and web categories
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Tech Stack
 
+[![Tech Stack](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,react,vite,tailwind,mysql,mongodb,docker,git)](https://skillicons.dev)
+
+**Languages:** Python · Java · C · C++ · HTML · CSS
+**AI / ML:** CodeBERT · LoRA (PEFT) · FAISS · LLaMA 3.1 · Gemini Embeddings · sentence-transformers · Groq API
+**Web:** React.js · Vite.js · TailwindCSS · Framer Motion
+**Databases / Infra:** MySQL · MongoDB · Docker
+**Other:** Godot
+
+---
+
+### Experience
+
+**Research Intern** — PESU Center for Cognitive Computing & Computational Intelligence `Jun 2025 – Jul 2025`
+- Designed an AI-based microlearning tool applying Cognitive Load Theory to improve retention and learning efficiency.
+- Built personalized content-delivery algorithms adapting to user cognitive state and pace.
+- Validated educational impact with academic mentors using quantitative metrics; conducted supporting literature review.
+
+**Core Technical Member** — Layer8 `Jun 2025 – Present`
+- Organized Cyber Rush and sudo$rm CTF events — challenge design, platform setup, and event coordination with PESU-CCNCS and IEEE PESU-ECC.
+- Developed original cybersecurity challenges spanning steganography, cryptography, and other domains.
+
+---
+
+### Selected Projects
+
+**[Policy-Aware Code Compliance Auditing System](REPO_LINK_HERE)** — `Python · CodeBERT · LoRA · FAISS · LLaMA 3.1 · Gemini Embeddings`
+RAG-based pipeline auditing source code against natural-language policy documents using AST chunking, LLM summarization, and semantic retrieval. LoRA-fine-tuned CodeBERT for compliance classification hit 86% macro-F1 and 100% recall, cutting LLM API calls by 68% versus a naive baseline.
+
+**AI-Powered RAG System for Educational Content Summarization** — `sentence-transformers · Gemini API · pydrive · Python`
+Processes teaching materials and question papers, surfaces relevant answers within source material based on the question asked, and generates AI-summarized notes for quick revision.
+
+**CareerWay** — `Vite.js · TailwindCSS · Framer Motion`
+Tinder-style career recommendation platform — swipe through job opportunities, track preferences in a personalized "likes" list, and get an AI chat assistant for career queries and curated resources.
+
+**Other Projects:** Web-Application Hosting ChatBot · Python-Based Browser
+
+---
+
+### Competitive Programming
+
+[![LeetCode Stats](https://leetcode-stats-two.vercel.app/api?username=AleisterTheWizard)](https://leetcode.com/u/AleisterTheWizard/)
+
+---
+
+### Get in Touch
+
+📧 [rishil.aj99@gmail.com](mailto:rishil.aj99@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/rishil-jalisatgi/) · 📍 Bangalore
