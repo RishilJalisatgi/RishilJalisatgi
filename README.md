@@ -7,7 +7,7 @@
 
 B.Tech Computer Science student at PES University, Bengaluru (2023–2027). I build RAG pipelines, fine-tune LLMs for real-world tasks, and design CTF challenges on the side. I care about systems that hold up outside a notebook.
 
-**Focus areas:**
+**Where I've worked in:**
 - **Applied ML / GenAI** — RAG pipelines, LoRA fine-tuning, semantic retrieval, policy/compliance classification
 - **Full-Stack Development** — end-to-end products from data pipeline to UI
 - **Security** — CTF challenge design across steganography, cryptography, and web categories
@@ -16,13 +16,10 @@ B.Tech Computer Science student at PES University, Bengaluru (2023–2027). I bu
 
 ### Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,react,vite,tailwind,mysql,mongodb,docker,git)](https://skillicons.dev)
-
-**Languages:** Python · Java · C · C++ · HTML · CSS
-**AI / ML:** CodeBERT · LoRA (PEFT) · FAISS · LLaMA 3.1 · Gemini Embeddings · sentence-transformers · Groq API
-**Web:** React.js · Vite.js · TailwindCSS · Framer Motion
-**Databases / Infra:** MySQL · MongoDB · Docker
-**Other:** Godot
+**Primary:** Python
+**Also used in projects:** Java · JavaScript (React.js, Vite.js) · HTML/CSS · TailwindCSS
+**Familiar with:** C · MySQL · MongoDB · Docker
+**AI / ML tools used in projects:** CodeBERT · LoRA (PEFT) · FAISS · LLaMA 3.1 · Gemini Embeddings · sentence-transformers · Groq API
 
 ---
 
@@ -33,15 +30,15 @@ B.Tech Computer Science student at PES University, Bengaluru (2023–2027). I bu
 - Built personalized content-delivery algorithms adapting to user cognitive state and pace.
 - Validated educational impact with academic mentors using quantitative metrics; conducted supporting literature review.
 
-**Core Technical Member** — Layer8 `Jun 2025 – Present`
+**Core Technical Member** — Layer8 `Jun 2025 – Jul 2026`
 - Organized Cyber Rush and sudo$rm CTF events — challenge design, platform setup, and event coordination with PESU-CCNCS and IEEE PESU-ECC.
 - Developed original cybersecurity challenges spanning steganography, cryptography, and other domains.
 
 ---
 
-### Selected Projects
+### Highlighted Projects
 
-**[Policy-Aware Code Compliance Auditing System](REPO_LINK_HERE)** — `Python · CodeBERT · LoRA · FAISS · LLaMA 3.1 · Gemini Embeddings`
+**Policy-Aware Code Compliance Auditing System** — `Python · CodeBERT · LoRA · FAISS · LLaMA 3.1 · Gemini Embeddings`
 RAG-based pipeline auditing source code against natural-language policy documents using AST chunking, LLM summarization, and semantic retrieval. LoRA-fine-tuned CodeBERT for compliance classification hit 86% macro-F1 and 100% recall, cutting LLM API calls by 68% versus a naive baseline.
 
 **AI-Powered RAG System for Educational Content Summarization** — `sentence-transformers · Gemini API · pydrive · Python`
