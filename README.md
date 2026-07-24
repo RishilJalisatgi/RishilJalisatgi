@@ -3,7 +3,7 @@
   <img src="BannerLight1.png" alt="Banner">
 </picture>
 
-### Hi, I'm Rishil 👋
+### Hey, I'm Rishil 👋
 
 B.Tech Computer Science student at PES University, Bengaluru (2023–2027). I build RAG pipelines, fine-tune LLMs for real-world tasks, and design CTF challenges on the side. I care about systems that hold up outside a notebook.
 
