@@ -17,8 +17,11 @@ B.Tech Computer Science student at PES University, Bengaluru (2023–2027). I bu
 ### Tech Stack
 
 **Primary:** Python
+
 **Also used in projects:** Java · JavaScript (React.js, Vite.js) · HTML/CSS · TailwindCSS
+
 **Familiar with:** C · MySQL · MongoDB · Docker
+
 **AI / ML tools used in projects:** CodeBERT · LoRA (PEFT) · FAISS · LLaMA 3.1 · Gemini Embeddings · sentence-transformers · Groq API
 
 ---
