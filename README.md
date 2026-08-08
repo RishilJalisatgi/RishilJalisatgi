@@ -5,7 +5,7 @@
 
 ### Hey, I'm Rishil 👋
 
-B.Tech Computer Science student at PES University, Bengaluru (2023–2027). I build RAG pipelines, fine-tune LLMs for real-world tasks, and design CTF challenges on the side. I care about systems that hold up outside a notebook.
+B.Tech Computer Science student at PES University, Bangalore (2023–2027). I build RAG pipelines, fine-tune LLMs for real-world tasks, and design CTF challenges on the side. I care about systems that hold up outside a notebook.
 
 **Where I've worked in:**
 - **Applied ML / GenAI** — RAG pipelines, LoRA fine-tuning, semantic retrieval, policy/compliance classification
@@ -26,19 +26,6 @@ B.Tech Computer Science student at PES University, Bengaluru (2023–2027). I bu
 
 ---
 
-### Experience
-
-**Research Intern** — PESU Center for Cognitive Computing & Computational Intelligence `Jun 2025 – Jul 2025`
-- Designed an AI-based microlearning tool applying Cognitive Load Theory to improve retention and learning efficiency.
-- Built personalized content-delivery algorithms adapting to user cognitive state and pace.
-- Validated educational impact with academic mentors using quantitative metrics; conducted supporting literature review.
-
-**Core Technical Member** — Layer8 `Jun 2025 – Jul 2026`
-- Organized Cyber Rush and sudo$rm CTF events — challenge design, platform setup, and event coordination with PESU-CCNCS and IEEE PESU-ECC.
-- Developed original cybersecurity challenges spanning steganography, cryptography, and other domains.
-
----
-
 ### Highlighted Projects
 
 **Policy-Aware Code Compliance Auditing System** — `Python · CodeBERT · LoRA · FAISS · LLaMA 3.1 · Gemini Embeddings`
@@ -54,12 +41,8 @@ Tinder-style career recommendation platform — swipe through job opportunities,
 
 ---
 
-### Competitive Programming
-
-[![LeetCode Stats](https://leetcode-stats-two.vercel.app/api?username=AleisterTheWizard)](https://leetcode.com/u/AleisterTheWizard/)
-
----
-
 ### Get in Touch
+
+Personal Portfolio Website: https://rishiljalisatgi.netlify.app/
 
 📧 [rishil.aj99@gmail.com](mailto:rishil.aj99@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/rishil-jalisatgi/) · 📍 Bangalore
